@@ -15,15 +15,20 @@
    * Git
 2. Requirement Libraries to Install
    * pip install pandas numpy os json requests  mysql.connector sqlalchemy  streamlit plotly.express
+     
 3. Import Libraries
+   
 clone libraries
    * import requests
+     
 pandas, numpy and file handling libraries
    * import pandas as pd
    * import os
    * import json
+     
 SQL libraries
    * import mysql.connector
+     
 Dashboard libraries
    * import streamlit as st
    * import plotly.express as px
