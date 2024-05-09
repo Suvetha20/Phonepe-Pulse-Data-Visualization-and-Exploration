@@ -18,10 +18,10 @@
      
 3. Import Libraries
    
- clone libraries
+    clone libraries
    * import requests
      
- pandas, numpy and file handling libraries
+    pandas, numpy and file handling libraries
    * import pandas as pd
    * import os
    * import json
