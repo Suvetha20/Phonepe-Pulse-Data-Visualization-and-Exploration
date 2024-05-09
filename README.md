@@ -35,11 +35,16 @@
 
 4. E T L Process
    
-a) Extract data
+   a) Extract data
+   
    * Initially, we Clone the data from the Phonepe GitHub repository by using Python libraries. https://github.com/PhonePe/pulse.git
-b) Process and Transform the data
+     
+   b) Process and Transform the data
+   
    * Process the clone data by using Python algorithms and transform the processed data into DataFrame formate.
-c) Load data
-  * Finally, create a connection to the MySQL server and create a Database and stored the Transformed data in the MySQL server by using the given method. 
+     
+   c) Load data
+   
+   * Finally, create a connection to the MySQL server and create a Database and stored the Transformed data in the MySQL server by using the given method. 
      
 
