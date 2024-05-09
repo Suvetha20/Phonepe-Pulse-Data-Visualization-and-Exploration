@@ -1,6 +1,6 @@
 # Phonepe-Pulse-Data-Visualization-and-Exploration
 
-Phonepe Pulse Data Visualization and Exploration: A UserFriendly Tool Using Streamlit and Plotpy
+## Phonepe Pulse Data Visualization and Exploration: A UserFriendly Tool Using Streamlit and Plotpy
 
 Problem Statement: 
 
