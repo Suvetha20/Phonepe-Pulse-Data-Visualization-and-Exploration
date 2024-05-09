@@ -18,18 +18,18 @@
      
 3. Import Libraries
    
-clone libraries
+ clone libraries
    * import requests
      
-pandas, numpy and file handling libraries
+ pandas, numpy and file handling libraries
    * import pandas as pd
    * import os
    * import json
      
-SQL libraries
+ SQL libraries
    * import mysql.connector
      
-Dashboard libraries
+ Dashboard libraries
    * import streamlit as st
    * import plotly.express as px
      
