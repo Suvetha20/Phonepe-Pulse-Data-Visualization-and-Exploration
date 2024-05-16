@@ -366,7 +366,7 @@ if select == "HOME":
         st.write("****PIN Authorization****")
         st.download_button("DOWNLOAD THE APP NOW", "https://www.phonepe.com/app-download/")
     with col2:
-        st.image(r"C:\Users\User\Desktop\New folder\phonepe_1_1624421682624.webp")
+        st.image(r"C:\Users\User\Desktop\New folder\.vscode\image_processing20200114-26356-1dzvejl.gif")
 
 
 
